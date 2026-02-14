@@ -1,16 +1,18 @@
 ## Hi, i,m Rugari fredy
 
-<!--
-**fredybagaza-bot/fredybagaza-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+## About Me
+- I'm currently learning [what you're studying, e.g., "Computer Science at University of Nairobi"].
+- I'm interested in [your interests, e.g., "AI, web development, and data science"].
+- I'm looking to collaborate on [e.g., "beginner-friendly open source projects"].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- [Add others, e.g., "Python", "HTML/CSS", "Machine Learning"]
 
--## 🔭 I’m currently working on how to use artificial intergence
--## 🌱 I’m currently learning the uses of Ai
--## 👯 I’m looking to collaborate with others
--## 🤔 I’m looking for help 
--## 💬 Ask me about how can guide you in proving you frnch language
--## 📫 How to reach me: fredybagaza@gmail.com
--## 😄 Pronouns: ...
--## ⚡ Fun fact: ...
--->
+## Current Projects
+- [Project name](link) — short description
+
+## How to Reach Me
+- Email: [your email]
+- LinkedIn: [your LinkedIn profile link]
